@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FubuMVC.JQueryMetaData", "FubuMVC.JQueryMetaData\FubuMVC.JQueryMetaData.csproj", "{EE0070BB-1F9B-480D-8E3A-62948A599C41}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FubuMVC.JQueryMetaData.Testing", "FubuMVC.JQueryMetaData.Testing\FubuMVC.JQueryMetaData.Testing.csproj", "{1218C973-716C-4126-B1B2-3BB224500BF3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE0070BB-1F9B-480D-8E3A-62948A599C41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE0070BB-1F9B-480D-8E3A-62948A599C41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE0070BB-1F9B-480D-8E3A-62948A599C41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE0070BB-1F9B-480D-8E3A-62948A599C41}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1218C973-716C-4126-B1B2-3BB224500BF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1218C973-716C-4126-B1B2-3BB224500BF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1218C973-716C-4126-B1B2-3BB224500BF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1218C973-716C-4126-B1B2-3BB224500BF3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
