@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<package xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+    <id>FubuMVC.JQueryMetaData</id>
+    <version>0.1</version>
+    <authors>Jaime Febres.</authors>
+    <owners>Jaime Febres</owners>
+    <licenseUrl>https://github.com/DarthFubuMVC/fubumvc/raw/master/license.txt</licenseUrl>
+    <projectUrl>http://mvc.fubu-project.org/</projectUrl>
+    <iconUrl>https://github.com/DarthFubuMVC/fubu-collateral/raw/master/Icons/FubuMvc_256.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Quick integration of jquery.metadata into a FubuMVC application</description>
+    <tags>fubumvc jquery metadata jquerymetadata</tags>
+    <dependencies>
+      <dependency id="FubuMVC.Core" version="0.9.8.993" />
+      <dependency id="FubuMVC.Core.Assets" version="0.9.8.993" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="..\..\src\FubuMVC.JQueryMetaData\bin\release\FubuMVC.JQueryMetaData.*" target="lib\net40" />
+  </files>
+</package>
